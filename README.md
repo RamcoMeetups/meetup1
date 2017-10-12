@@ -2,6 +2,9 @@
 
 ### SQL & NoSQL
 
+## Date:
+September 6, 2017
+
 ## Venue:
 TGIM (Ramco Systems, Adyar, Chennai, INDIA)
 
@@ -25,3 +28,5 @@ TGIM (Ramco Systems, Adyar, Chennai, INDIA)
 3. IMG Support - For providing us with mic, projector and necessary technical support
 
 4. Admin Team - For helping us with Samosas, Coffee & Tea
+
+5. Audience - For attending the meetup :-)
