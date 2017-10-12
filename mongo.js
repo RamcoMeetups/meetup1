@@ -44,7 +44,6 @@ function insertData(db,callback){
 }
 
 function queryData(db,callback){
-  console.log(db.collection("userinfo").find({}));
   db.collection("userinfo").find({}).toArray(function(err, result) {
     if (err) throw err;
     console.log(result);
